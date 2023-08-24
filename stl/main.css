@@ -30,3 +30,32 @@ body {
     font-style: italic;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.block-1 {
+    background-image: url(/res/ussr.png);
+    color: rgb(0, 97, 29);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 750px;
+    background-position: 240px;
+}
+.block-2 {
+    background: linear-gradient(#ffffff, #d7ffd1);
+}
+.block-1p {
+    padding: 100px;
+    text-align: center;
+    color: white;  
+}
+#b1title {
+    margin-bottom: 50px;
+    padding: 10px;
+}
+.skldev1 {
+    padding: 10px;
+    text-align: center;
+}
+.skldev2 {
+    padding: 10px;
+    text-align: center;
+}
