@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'minecraft';
+    src: url(/res/minecraft.ttf);
+}
+#BarrierTop {
+    font-family: 'minecraft';
+}
+nav {
+    background-color: rgb(41, 41, 41);
+    color: white;
+    display: block;
+    width: 100%;
+    margin: 0;
+}
+nav ul {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    list-style: none;
+    float: left;
+    padding: 10px;
+}
+body {
+    line-height: 1;
+    margin: 0;
+}
+.nav1 {
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
